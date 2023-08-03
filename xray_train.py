@@ -66,7 +66,6 @@ history = model.fit(train_generator,
                     validation_data=val_generator,
                     validation_steps=len(val_generator))
                     
-model = load_model('pneumonia_detection_model.h5')
 model.save('pneumonia_detection_model_new.h5')
 
 def open_image():
