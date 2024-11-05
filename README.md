@@ -1,7 +1,7 @@
 # pneumonia-prediction
  Pneumonia Detection app: Upload X-ray, predict normal/pneumonia using pre-trained model, display result. Quick, accurate tool for healthcare diagnosis.
 
-The Pneumonia Detection application is a GUI-based tool that uses a pre-trained deep learning model to predict whether a given X-ray image belongs to a regular patient or a patient with pneumonia. 
+The Pneumonia Detection application is a GUI-based tool that applies a convolutional neural network to predict whether a given X-ray image belongs to a regular patient or a patient with pneumonia. 
 
 
 1. User uploads an X-ray image through the GUI interface.
